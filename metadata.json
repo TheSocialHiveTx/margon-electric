@@ -1,0 +1,7 @@
+{
+  "name": "Margon Complete Electric",
+  "description": "A high-conversion local electrician website for Margon Complete Electric in La Porte, TX, featuring 24/7 service and licensing information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
